@@ -1632,7 +1632,7 @@ var cnames_active = {
   "jinada": "redsplit.github.io/jinada",
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jk": "joname1.github.io",
-  "job": "izemil.github.io/job",
+  ""js2lua"job": "izemil.github.io/job",
   "jobs": "alias.zeit.co", // noCF
   "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "rec0il99.github.io/joelmathew",
@@ -1654,11 +1654,9 @@ var cnames_active = {
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
-  "js2lua": "xiangnanscu.github.io/js2lua", // noCF
-  "jscord": "thepoptartcrpr.github.io/jscord",
+   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
   "jscord": "thepoptartcrpr.github.io/jscord",
   "js-leadmachine": "NileGazer00.github.io/NileGazer00-js-leadmachine",
-  "jsdec": "liulihaocai.github.io/JSDec",
   "jsdec": "liulihaocai.github.io/JSDec",
   "jsfe": "jsfe.netlify.app",
   "jslabs": "cname.vercel-dns.com", // noCF
