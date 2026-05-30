@@ -1658,6 +1658,7 @@ var cnames_active = {
   "jparticles": "jparticles.github.io/Documentation",
   "js-fixerr": "anujsinghwd.github.io/js-fixerr",
   "js-labs": "cname.vercel-dns.com", // noCF
+  "js-leadmachine.js.org": "nilegazer00.github.io/NileGazer00-js-leadmachine",
   "js-utils": "teneplaysofficial.github.io/js-utils-kit",
   "js-validation": "phpdevsr.github.io/js-validation",
   "js2lua": "xiangnanscu.github.io/js2lua", // noCF
